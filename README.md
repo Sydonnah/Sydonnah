@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Carlisha Nicholson.
 - 👀 I’m interested in Full Stack Software Development but current more versed in the Front End aspect.
-- 🌱 I’m currently learning React in my pass time.
+- 🌱 I’m currently learning React, Prolog and Python in my pass time.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nicholsoncarlisha@gmail.com
 

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Carlisha Nicholson.
-- 👀 I’m interested in Full Stack Software Development but current more versed in the Front End aspect.
-- 🌱 I’m currently learning React, Prolog and Python in my pass time.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nicholsoncarlisha@gmail.com
+- 👀 I’m a Back End Software Developer experienced in building and maintaining applications using Java and C#, with additional experience in Flutter.
+- 🌱 I’m currently expanding into React and Python to further strengthen my full stack development capabilities.
+- 💞️ I’m interested in collaborating on backend services, API development, and full stack projects.
+- 📫 Reach me at: nicholsoncarlisha@gmail.com
 
 <!---
 Sydonnah/Sydonnah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
